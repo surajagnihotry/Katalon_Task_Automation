@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>00505782-d4ad-465f-bfbb-021aa98b2ba7</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>96cb3947-f943-45dc-a348-5f669174fefc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testtask1101@yopmail.com'</defaultValue>
+      <description></description>
+      <id>96cb3947-f943-45dc-a348-5f669174fefc</id>
+      <masked>false</masked>
+      <name>Sign_In_Email</name>
+   </variable>
+</TestCaseEntity>

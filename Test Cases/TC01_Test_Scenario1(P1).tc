@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Test_Scenario1(P1)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1de13802-0e89-40b1-95df-424fa5f75c85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2793878-d3e3-4089-b2e1-28f61435ee50</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testtask1101@yopmail.com'</defaultValue>
+      <description></description>
+      <id>f2793878-d3e3-4089-b2e1-28f61435ee50</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+</TestCaseEntity>
